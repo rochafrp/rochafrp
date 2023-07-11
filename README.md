@@ -8,10 +8,10 @@ Sou um apaixonado por programação full stack que iniciou sua jornada em 2022 e
 
 Skills
 
-👨‍💻 TypeScript, JavaScript, Java
-⚙️ Angular 2+, React, NodeJS
-👁️ SASS, CSS
-💽 MySQL, SQL, Mongo
+👨‍💻 Python, Lua, JavaScript, Java, Dart
+⚙️ Flutter
+👁️ HTML/CSS
+💽 MySQL, SQL
 
-
+[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:http://monip.org)](https://rochafrp.github.io/Portfolio/)
 ![Blog](https://github-readme-stats.vercel.app/api/top-langs/?username=rochafrp&theme=blue-green)
