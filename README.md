@@ -6,7 +6,7 @@ Sou um apaixonado por programação full stack que iniciou sua jornada em 2022 e
 
 👩‍🎓 Em formação em Análise e Desenvolvimento de Sistemas (tecnólogo).
 
-Skills
+### Skills
 
 👨‍💻 Python, Lua, JavaScript, Java, Dart
 ⚙️ Flutter
