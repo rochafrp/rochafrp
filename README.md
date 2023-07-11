@@ -13,6 +13,6 @@ Skills
 👁️ HTML/CSS
 💽 MySQL, SQL
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](website:https://rochafrp.github.io/Portfolio/)
+[![Blog](https://img.shields.io/website?label=Portfolio&style=fot-the-badge&url=https://rochafrp.github.io/Portfolio/)](https://rochafrp.github.io/Portfolio/)
 
 ![Blog](https://github-readme-stats.vercel.app/api/top-langs/?username=rochafrp&theme=blue-green)
