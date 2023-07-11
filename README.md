@@ -18,4 +18,8 @@ Sou um apaixonado por programação full stack que iniciou sua jornada em 2022 e
 
 [![Blog](https://img.shields.io/website?label=Portfolio&style=fot-the-badge&url=https://rochafrp.github.io/Portfolio/)](https://rochafrp.github.io/Portfolio/)
 
+[![Github](https://img.shields.io/website?label=Portfolio&style=fot-the-badge&url=https://rochafrp.github.io/Portfolio/)](https://rochafrp.github.io/Portfolio/)
+[![Linkedin](https://img.shields.io/website?label=Portfolio&style=fot-the-badge&url=https://rochafrp.github.io/Portfolio/)](https://rochafrp.github.io/Portfolio/)
+[![Gmail](https://img.shields.io/website?label=Portfolio&style=fot-the-badge&url=https://rochafrp.github.io/Portfolio/)](https://rochafrp.github.io/Portfolio/)
+
 ![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=rochafrp&theme=blue-green)
