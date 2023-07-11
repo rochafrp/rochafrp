@@ -15,4 +15,4 @@ Skills
 
 [![Blog](https://img.shields.io/website?label=Portfolio&style=fot-the-badge&url=https://rochafrp.github.io/Portfolio/)](https://rochafrp.github.io/Portfolio/)
 
-![Blog](https://github-readme-stats.vercel.app/api/top-langs/?username=rochafrp&theme=blue-green)
+![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=rochafrp&theme=blue-green)
