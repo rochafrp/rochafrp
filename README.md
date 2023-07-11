@@ -13,5 +13,5 @@ Skills
 👁️ HTML/CSS
 💽 MySQL, SQL
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:http://monip.org)](https://rochafrp.github.io/Portfolio/)
+[![Blog](https://img.shields.io/Portfolio-up-down-green-red/http/monip.org.svg)](Portfolio:https://rochafrp.github.io/Portfolio/)
 ![Blog](https://github-readme-stats.vercel.app/api/top-langs/?username=rochafrp&theme=blue-green)
