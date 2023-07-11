@@ -9,8 +9,11 @@ Sou um apaixonado por programação full stack que iniciou sua jornada em 2022 e
 ### Skills
 
 👨‍💻 Python, Lua, JavaScript, Java, Dart
+
 ⚙️ Flutter
+
 👁️ HTML/CSS
+
 💽 MySQL, SQL
 
 [![Blog](https://img.shields.io/website?label=Portfolio&style=fot-the-badge&url=https://rochafrp.github.io/Portfolio/)](https://rochafrp.github.io/Portfolio/)
