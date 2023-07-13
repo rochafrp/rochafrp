@@ -26,9 +26,9 @@ Sou um apaixonado por programação full stack que iniciou sua jornada em 2022 e
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rochafrp&layout=compact&theme=blue-green)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/rochafrp/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rochafrp" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/rochafrp/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rochafrp&layout=compact&langs_count=8&card_width=320" />
 </a>
