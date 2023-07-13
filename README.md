@@ -24,3 +24,4 @@ Sou um apaixonado por programação full stack que iniciou sua jornada em 2022 e
 
 ![Rochafrp GitHub stats](https://github-readme-stats.vercel.app/api?username=rochafrp&show_icons=true&theme=radical)
 ![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=rochafrp&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
