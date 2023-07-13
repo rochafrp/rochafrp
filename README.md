@@ -16,7 +16,7 @@ Sou um apaixonado por programação full stack que iniciou sua jornada em 2022 e
 
 💽 MySQL, SQL
 
-[![Website](https://img.shields.io/badge/Google%20Chrome-4285F4.svg?style=for-the-badge&logo=Website&logoColor=white)](https://rochafrp.github.io/Portfolio/)
+[![Website](https://img.shields.io/badge/Google%20Chrome-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://rochafrp.github.io/Portfolio/)
 
 
 
