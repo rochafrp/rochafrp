@@ -18,7 +18,7 @@ Sou um apaixonado por programação full stack que iniciou sua jornada em 2022 e
 
 [![Website](https://img.shields.io/badge/Google%20Chrome-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white=https://rochafrp.github.io/Portfolio/)](https://rochafrp.github.io/Portfolio/)
 
-https://img.shields.io/badge/Google%20Chrome-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white
+
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rochafrp)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-rocha-652459162/)
