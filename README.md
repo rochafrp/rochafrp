@@ -22,13 +22,9 @@ Sou um apaixonado por programação full stack que iniciou sua jornada em 2022 e
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-rocha-652459162/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rochafrp@gmail.com)
 
-![Rochafrp GitHub stats](https://github-readme-stats.vercel.app/api?username=rochafrp&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rochafrp&layout=compact&theme=radical)
-
-
 <a href="https://github.com/rochafrp/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rochafrp&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/rochafrp/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rochafrp&layout=compact&langs_count=8&card_width=320&theme=blue-green" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rochafrp&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
