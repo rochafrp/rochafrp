@@ -27,8 +27,8 @@ Sou um apaixonado por programação full stack que iniciou sua jornada em 2022 e
 
 
 <a href="https://github.com/rochafrp/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rochafrp" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rochafrp&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/rochafrp/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rochafrp&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rochafrp&layout=compact&langs_count=8&card_width=320&theme=blue-green" />
 </a>
